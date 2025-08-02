@@ -1,6 +1,6 @@
-# Olá, eu sou Alison
+# Alison Nascimento
 
-Desenvolvedor Java com experiência em **backend** e **frontend**.
+Desenvolvedor Java com experiência em **backend** e **frontend**
 
 ## Tecnologias e Ferramentas
 
